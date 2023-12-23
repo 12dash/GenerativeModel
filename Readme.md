@@ -1,5 +1,7 @@
 # Generative Models
-Some basic examples for the generative models. 
+Tutorial Code guide for generative model tutorial for COMS 4995 - Neural Network & Deep Learning in Columbia University. 
+
+Some examples for a broad generative models. 
 
 * Generative Adverserial Network
 * Normalizing Flow
